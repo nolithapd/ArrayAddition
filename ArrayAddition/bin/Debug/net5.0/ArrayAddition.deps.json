@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ArrayAddition/1.0.0": {
+        "runtime": {
+          "ArrayAddition.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayAddition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

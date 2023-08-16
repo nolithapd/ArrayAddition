@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\portiad\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\portiad\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\portiad\source\repos\ArrayAddition\ArrayAddition\bin\Debug\net5.0\ArrayAddition.exe
+C:\Users\portiad\source\repos\ArrayAddition\ArrayAddition\bin\Debug\net5.0\ArrayAddition.deps.json
+C:\Users\portiad\source\repos\ArrayAddition\ArrayAddition\bin\Debug\net5.0\ArrayAddition.runtimeconfig.json
+C:\Users\portiad\source\repos\ArrayAddition\ArrayAddition\bin\Debug\net5.0\ArrayAddition.runtimeconfig.dev.json
+C:\Users\portiad\source\repos\ArrayAddition\ArrayAddition\bin\Debug\net5.0\ArrayAddition.dll
+C:\Users\portiad\source\repos\ArrayAddition\ArrayAddition\bin\Debug\net5.0\ref\ArrayAddition.dll
+C:\Users\portiad\source\repos\ArrayAddition\ArrayAddition\bin\Debug\net5.0\ArrayAddition.pdb
+C:\Users\portiad\source\repos\ArrayAddition\ArrayAddition\obj\Debug\net5.0\ArrayAddition.csproj.AssemblyReference.cache
+C:\Users\portiad\source\repos\ArrayAddition\ArrayAddition\obj\Debug\net5.0\ArrayAddition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\portiad\source\repos\ArrayAddition\ArrayAddition\obj\Debug\net5.0\ArrayAddition.AssemblyInfoInputs.cache
+C:\Users\portiad\source\repos\ArrayAddition\ArrayAddition\obj\Debug\net5.0\ArrayAddition.AssemblyInfo.cs
+C:\Users\portiad\source\repos\ArrayAddition\ArrayAddition\obj\Debug\net5.0\ArrayAddition.csproj.CoreCompileInputs.cache
+C:\Users\portiad\source\repos\ArrayAddition\ArrayAddition\obj\Debug\net5.0\ArrayAddition.dll
+C:\Users\portiad\source\repos\ArrayAddition\ArrayAddition\obj\Debug\net5.0\ref\ArrayAddition.dll
+C:\Users\portiad\source\repos\ArrayAddition\ArrayAddition\obj\Debug\net5.0\ArrayAddition.pdb
+C:\Users\portiad\source\repos\ArrayAddition\ArrayAddition\obj\Debug\net5.0\ArrayAddition.genruntimeconfig.cache
